@@ -1,0 +1,1005 @@
+{
+  "about": {
+    "description": "EVAC is the Kazakhstan national system of emergency calls in case of accidents and disasters. \nThe system operates using signals and data from GPS and GLONASS satellite navigation systems. \nIn case of an emergency (fire, sudden attack of illness, attack), the driver or passenger has the opportunity to call emergency services using the panic button. \nThe system will ensure maximum response speed for emergency services.",
+    "features": {
+      "auto_call": "Automatic call",
+      "auto_call_desc": "The system itself calls rescuers in case of a serious accident, even if the driver is unconscious.",
+      "channel_112": "Direct channel 112",
+      "channel_112_desc": "The signal goes directly to the dispatcher",
+      "coords": "Exact coordinates",
+      "coords_desc": "The built-in GPS/GLONASS chip instantly transmits the exact location of the vehicle to service 112.",
+      "monitoring": "24/7 monitoring",
+      "monitoring_desc": "24/7 call reception throughout the Republic of Kazakhstan"
+    },
+    "label": "ABOUT THE SYSTEM",
+    "title": "Technology that's always nearby"
+  },
+  "auth": {
+    "labels": {
+      "email": "E-mail",
+      "password": "Password"
+    },
+    "login": {
+      "no_account": "Don't have an account yet?",
+      "submit": "Login",
+      "title": "Login"
+    },
+    "placeholders": {
+      "email": "example{'@'}mail.com",
+      "password": "Enter your password"
+    },
+    "registration": {
+      "has_account": "Already have an account?",
+      "submit": "Register",
+      "title": "Registration"
+    },
+    "success": {
+      "close": "Great",
+      "login_title": "Successful login!",
+      "message": "You have successfully logged into the GAIS EVAC system.",
+      "registration_title": "Successful registration!"
+    }
+  },
+  "car_owners": {
+    "hero": {
+      "label": "CAR OWNERS",
+      "text": "Find out the registration status, the procedure for purchasing SIM cards and their tariffs.",
+      "title": "Your car is under the protection of GAIS EVAC"
+    },
+    "registration": {
+      "l1": "Vehicle registration certificate;",
+      "l2": "Identity document;",
+      "l3": "Documents confirming payment of duties and fees;",
+      "l4": "Technical document;",
+      "l5": "Vehicle;",
+      "l6": "A document confirming ownership of the vehicle and license plate, including:",
+      "l7": "Documents confirming customs clearance;",
+      "l8": "Certificate of safety of the vehicle design or vehicle type approval to the Technical Regulations of the Customs Union.",
+      "label": "PRIMARY VEHICLE REGISTRATION",
+      "text1": "During the initial state registration of a vehicle in the Republic of Kazakhstan (with the exception of vehicles purchased from an official dealer), the owners provide the vehicle to the REP for verification of compliance with license plate units.",
+      "text2": "To perform registration actions, vehicle owners are provided with:",
+      "title": "Procedure for registering a vehicle with the police"
+    },
+    "steps_equipped": {
+      "items": {
+        "step1": {
+          "num": "01",
+          "text": "When importing a vehicle into the territory of the Republic of Kazakhstan, it is necessary to go through the customs clearance procedure.",
+          "title": "Go through customs clearance"
+        },
+        "step2": {
+          "num": "02",
+          "text": "If your vehicle is equipped with an in-vehicle emergency call device with a GLONASS (Russia) or EVAC (Kazakhstan) SIM card, it must be registered in GAIS EVAC through certified installation centers.",
+          "title": "Register UVEOS"
+        },
+        "step3": {
+          "num": "03",
+          "text": "If the in-vehicle emergency call device is equipped with a SIM card of European operators, it must be replaced at certified installation centers.",
+          "title": "Replace UVEOS if necessary"
+        },
+        "step4": {
+          "num": "04",
+          "text": "Obtain a vehicle design safety certificate. \nTesting laboratories check the availability and functionality of the emergency call system.",
+          "title": "Get SBCTS"
+        },
+        "step5": {
+          "num": "05",
+          "text": "Submit the vehicle and a package of documents to the NJSC “State Corporation “Government for Citizens” (Special Public Service Center) for state registration using an identification number.",
+          "title": "Register the vehicle in the Special Service Center"
+        }
+      },
+      "label": "INSTRUCTIONS",
+      "title": "Algorithm for the initial registration of vehicles equipped with U(S)VEOS"
+    },
+    "steps_not_equipped": {
+      "items": {
+        "step1": {
+          "num": "01",
+          "text": "When importing a vehicle into the territory of the Republic of Kazakhstan, it is necessary to go through the customs clearance procedure.",
+          "title": "Customs clearance"
+        },
+        "step2": {
+          "num": "02",
+          "text": "If the vehicle is not equipped with an in-vehicle emergency call device, it is necessary to install and configure the equipment at certified installation centers.",
+          "title": "Installation of U(S)VEOS"
+        },
+        "step3": {
+          "num": "03",
+          "text": "Register U(S)VEOS in the EVAC system database. \nRegistration is carried out by certified installation centers.",
+          "title": "Registration in the EVAC system"
+        },
+        "step4": {
+          "num": "04",
+          "text": "Obtain a vehicle design safety certificate. \nLaboratories check the presence and functionality of the emergency call system.",
+          "title": "Obtaining SBCTS"
+        },
+        "step5": {
+          "num": "05",
+          "text": "Present the vehicle and a set of documents for state registration to the police.",
+          "title": "State registration"
+        }
+      },
+      "label": "INSTRUCTIONS",
+      "title": "Algorithm for the initial registration of vehicles not equipped with U(S)VEOS"
+    },
+    "uveos_info": {
+      "dates_list": {
+        "date1": "From January 1, 2015 - vehicles undergoing the type approval procedure for the first time.",
+        "date2": "From January 1, 2016 - vehicles for commercial transportation of passengers, dangerous goods and waste.",
+        "date3": "From January 1, 2017 - all vehicles put into circulation."
+      },
+      "label": "UVEOS",
+      "steps_used_cars": {
+        "step1": "The owner contacts a certified installation center.",
+        "step2": "The center installs the UVEOS and registers it in the EVAC system.",
+        "step3": "The owner receives a document confirming the availability of UVEOS for further processing."
+      },
+      "subtitle": "Installation procedure for UVEOS on used cars",
+      "text1": "On January 1, 2015, the standards for equipping vehicles with emergency call devices came into force in accordance with the Technical Regulations of the Customs Union “On the safety of wheeled vehicles” TR CU 018/2011.",
+      "text2": "Since 2016, passenger cars weighing more than 2.5 tons, buses, trucks and special vehicles for transporting dangerous goods have been required to be equipped with UVEOS.",
+      "text3": "In accordance with the regulations TR CU 018/2011, from January 1, 2017, the installation of UVEOS on manufactured vehicles of categories M and N is carried out by manufacturers. \nThis applies to both cars produced in Kazakhstan and those imported from abroad.",
+      "text4": "Vehicles imported into Kazakhstan and undergoing initial state registration are required to be equipped with UVEOS. \nRegistration without the established UVEOS is not carried out.",
+      "title": "Norms and procedures for equipping vehicles with an emergency call system"
+    },
+    "vin_check": {
+      "button": "CHECK",
+      "label": "VIN CHECK",
+      "placeholder": "Enter VIN code",
+      "text": "Enter the VIN code - you will see the activation date of the U(S)VEOS device, model and status.",
+      "title": "Check your car registration"
+    }
+  },
+  "centers": {
+    "list": {
+      "abn_service": {
+        "contact": "8 (701) 277 55 33",
+        "location": "Almaty region, Talgar district, s.o. \nGuldalinsky, p. \nGuldala, teacher \n2737.",
+        "name": "IP \"ABN Service\"",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "al_trade": {
+        "contact": "8 (777) 910 07 79",
+        "location": "Almaty region, village. \nBesagash, st. \nRakymzhan Koshkarbaev 1144",
+        "name": "IP AL Trade",
+        "schedule": "Mon–Sat 09:00–20:00"
+      },
+      "alisti": {
+        "contact": "8 (701) 459 00 43 / 8 (700) 689 26 33 / 8 (700) 689 29 41",
+        "location": "Almaty, E. Serkebaev Ave., 70",
+        "name": "ALISTI LLP",
+        "schedule": "Mon–Fri 09:00–18:00, Sat–Sun 11:00–16:00"
+      },
+      "alliance_almaty": {
+        "contact": "8 (701) 780 90 17",
+        "location": "Almaty, st. \nZhandosova 177a/1",
+        "name": "LLP \"ALLIANCE LCC (Almaty)\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "alliance_shymkent": {
+        "contact": "8 (708) 661 61 01",
+        "location": "Shymkent, Karatau district, PC Bozaryk, building 818",
+        "name": "LLP \"ALLIANCE LCC (Shymkent)\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "autotehservice": {
+        "contact": "8 (702) 285 02 31, 8 (701) 160 48 35",
+        "location": "Karaganda, st. \nStartovaya 65/2 / st. \nHousehold 28",
+        "name": "IP \"AUTOTECHSERVICE\"",
+        "schedule": "Mon–Sat 09:00–20:00"
+      },
+      "aylin_project": {
+        "contact": "8 (747) 268 48 96, 8 (707) 851 01 25",
+        "location": "Almaty, microdistrict. \nAksai-1, building 2A",
+        "name": "IP \"AYLIN PROJECT\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "bahramov": {
+        "contact": "8 (705) 653 52 22",
+        "location": "Zharkent, st. \nAbaya, 1",
+        "name": "IP Bahramov",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "balta_service": {
+        "contact": "8 (708) 536 55 66, 8 (707) 727 67 48",
+        "location": "Aktau, microdistrict 17, building No. 5.",
+        "name": "Balta Service LLP",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "baratov": {
+        "contact": "8 (747) 560 49 06",
+        "location": "Almaty, st. \nAkhanova 4 / Ryskulova Ave. 72a",
+        "name": "IP \"Baratov\"",
+        "schedule": "Mon–Sat 09:00–20:00"
+      },
+      "barys": {
+        "contact": "8 (701) 509 03 00",
+        "location": "Kostanay, Karbysheva st. 12/2",
+        "name": "IP \"Barys\"",
+        "schedule": "Mon–Fri 09:00–18:00, Sat 09:00–14:00"
+      },
+      "bastion": {
+        "contact": "88 (701) 233 35 75, 8 (771) 419 54 47",
+        "location": "Astana, Zh. Omarova st. 166",
+        "name": "Bastion.KZ LLP",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "bespalov": {
+        "contact": "8 (777) 074 67 52",
+        "location": "Almaty, microdistrict. \nTausamali, st. \nS Zhandosov, house 25A",
+        "name": "IP Bespalov A.I.",
+        "schedule": "Mon–Sat 10:00–19:00"
+      },
+      "botagoz": {
+        "contact": "8 (775) 252 70 14, 8 (778) 012 60 00",
+        "location": "Aktau, 39 microdistrict, 7 building, office 215",
+        "name": "IP \"Botagoz\"",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "buharbaev": {
+        "contact": "8 (700) 020 0033",
+        "location": "Atyrau, Abilkayir Khan Ave., building 18",
+        "name": "IP \"BUKHARBAEV NURMAKHAN KURBANALIEVICH\"",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "connect_sos": {
+        "contact": "8 (777) 592 92 40, 8 (778) 073 17 53",
+        "location": "Shymkent, microdistrict. \nAkzhaiyk house 1440",
+        "name": "IP \"CONNECT SOS\"",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "crocus_trade": {
+        "contact": "8 (705) 100 95 60",
+        "location": "Almaty, st. \nDzhandosova, 29E",
+        "name": "CrocusTrade LLP",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "dorovskih": {
+        "contact": "8 (707) 899 03 32, 8 (777) 239 99 74",
+        "location": "Almaty, Iliysky tract, 12",
+        "name": "IP Dorovskikh",
+        "schedule": "Mon–Sat 09:00–18:30"
+      },
+      "erzhanov": {
+        "contact": "8 (707) 555 99 70 / 8 (707) 055 99 70",
+        "location": "Almaty, Alatau district, microdistrict. \nSayali, 29",
+        "name": "IP Erzhanov",
+        "schedule": "Mon–Sat 09:00–20:00"
+      },
+      "geos_co": {
+        "contact": "8 (771) 800 89 78, 8 (727) 329 11 29",
+        "location": "Almaty, Sairan microdistrict, building 14, office 406",
+        "name": "LLP \"GEOS CO\"",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "global_auto": {
+        "contact": "8 (701) 111 31 27, 8 (705) 887 91 85",
+        "location": "Almaty, Zhuldyz-1, building 1B, office 3",
+        "name": "GLOBAL AUTO KZ LLP",
+        "schedule": "Mon–Fri 09:00–19:00, Sat 10:00–15:00"
+      },
+      "ignatyev": {
+        "contact": "8 (701) 512 53 16",
+        "location": "Pavlodar, st. \nAcademician Chokina, 148, office 2.",
+        "name": "IP Ignatiev O.V.",
+        "schedule": "Mon–Sat 09:00–17:00"
+      },
+      "kaspi_net": {
+        "contact": "8 (700) 080 10 00",
+        "location": "Shymkent, st. \nErmekbaeva, house 1568 / st. \nRyskulova, plot 1048 A",
+        "name": "KaspiNet LLP",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "kaspiy_group": {
+        "contact": "8 (702) 333 28 01, 8 (778) 589 89 41, 8 (701) 111 38 28",
+        "location": "Aktau, microdistrict 15, building 65 / microdistrict 4A, Ata Mura business center, office 106",
+        "name": "IP \"Caspi Group\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "kaspiy_service": {
+        "contact": "8 (775) 825 63 21, 8 (747) 873 84 66",
+        "location": "Aktau, microdistrict 4A, building 48 of the Ata Mura business center, office 213",
+        "name": "IP \"Caspian Service\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "kazintersystema": {
+        "contact": "8 (701) 788 07 41, 8 (727) 259 70 99, 8 (727) 270 60 63",
+        "location": "Almaty, st. \nAngarskaya, 111A",
+        "name": "Kazintersystem LLP",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "kazsert_standart": {
+        "contact": "8 (701) 070 07 53",
+        "location": "Almaty, microdistrict. \nTauzholy, st. \nZhansha Dosmukhamedov, 41",
+        "name": "Kazsert-Standard LLP",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "kazsystem_s": {
+        "contact": "8 (701) 767 60 20, 8 (701) 314 53 13",
+        "location": "Almaty, st. \nUmbetbaeva, building 162",
+        "name": "KAZSISTEM-S LLP",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "koptileuova": {
+        "contact": "8 (778) 178 31 50, 8 (702) 949 47 20",
+        "location": "Aktau, industrial zone 7, building 8",
+        "name": "IP \"Koptileuova A.T\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "kosmagambetov": {
+        "contact": "8 (702) 826 25 26, 8 (705) 507 87 07, 8 (778) 415 77 54, 8 (700) 480 96 94",
+        "location": "Mangistau region, Aktau, 22 microdistrict, building 55, AtaMura business center, office 103",
+        "name": "IP \"Kosmagambetov B.\"",
+        "schedule": "Mon–Fri 09:00–18:00, Sat 09:00–12:00"
+      },
+      "mtes_sert": {
+        "contact": "8 (777) 111 19 77",
+        "location": "Aktau, 18 A microdistrict, building 10, office 42",
+        "name": "LLP \"MTES - SERT\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "nva_glonass": {
+        "contact": "8 (771) 089 39 26",
+        "location": "Kostanay, st. \nKarbysheva 24D, office No. 3",
+        "name": "NVA GLONASS LLP",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "ozhekina": {
+        "contact": "8 (705) 709 35 65, 8 (702) 305 95 55",
+        "location": "Almaty, Shugyla microdistrict, st. \nSuranshy Batyr, building 21 / microdistrict Taugul 3, building 310A",
+        "name": "IP \"Ozhekina\"",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "saidhakimov": {
+        "contact": "8 (702) 277 77 00",
+        "location": "Shymkent, 160019, North-West microdistrict, house No. 2347",
+        "name": "IP Saidhakimov Bakhtiyar Abdukhamidovich",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "shokay": {
+        "contact": "8 (707) 727 67 48, 8 (708) 536 55 66, 8 (705) 788 18 81, 8 (701) 521 31 77",
+        "location": "Aktau, 11 microdistrict, building 8",
+        "name": "SHOKAY LLP",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "suleimenov": {
+        "contact": "8 (705) 770 27 59, 8 (708) 358 33 70, 8 (775) 056 23 67",
+        "location": "Aktobe, st. \nZhienbaeva, 131B",
+        "name": "IP \"Suleimenov Aset Marselevich\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "tastanbekov": {
+        "contact": "8 (708) 661 61 01",
+        "location": "Shymkent, Khojanova st., 15",
+        "name": "IP \"Tastanbekov\"",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "temirbek": {
+        "contact": "8 (777) 966 28 28, 8 (702) 398 28 92",
+        "location": "Atyrau, O.Atambaev St. 29",
+        "name": "IP \"TEMIRBEK\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "turganbaev": {
+        "contact": "8 (707) 470 94 22",
+        "location": "Almaty, st. \nNavoi 66.80",
+        "name": "IP \"Turganbaev\"",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "tynaeva": {
+        "contact": "8 (702) 677 66 77",
+        "location": "Almaty, MICRORAL DISTRICT AKSAY-5, building 3B, apt/office 33",
+        "name": "IP \"TynaevaPushButton\"",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "uluhanov": {
+        "contact": "8 (707) 965 5872, 8 (777) 074 6752, 8 (747) 451 4812",
+        "location": "Almaty, Zhetysu district, microdistrict. \nKarasu, st. \nMostovaya, 134/1",
+        "name": "IP Ulukhanov",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "unican_m": {
+        "contact": "8 (727) 269 44 49, 8 (727) 269 44 78, 8 (771) 780 88 87",
+        "location": "Almaty, Abay Ave., 76A",
+        "name": "Unican-M LLP",
+        "schedule": "Mon–Sat 09:00–18:00"
+      },
+      "uniconsult": {
+        "contact": "8 (771) 035 88 53",
+        "location": "Taraz, st. \nZheltoksan, house 56 / st. \nMakhambet, building 9B",
+        "name": "IP \"UniConsult\"",
+        "schedule": "Mon–Sat 10:00–19:00"
+      },
+      "universal88": {
+        "contact": "8 (702) 654 00 10",
+        "location": "Almaty, Almaty region, Ili district, Boraldai village, Boraldai village, st. \nAlatau, 12",
+        "name": "IP \"UNIVERSAL88\"",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "valenveyn": {
+        "contact": "8 (701) 235 43 33, 8 (701) 776 67 01",
+        "location": "Karaganda, st. \nProgress 1/4",
+        "name": "IP \"Valenvein E.I.\"",
+        "schedule": "Mon–Sat 10:00–20:00"
+      },
+      "zhas": {
+        "contact": "8 (700) 199 04 01",
+        "location": "Aktau, microdistrict 9, 10",
+        "name": "IP ZHAS",
+        "schedule": "Mon–Sat 09:00–19:00"
+      },
+      "zhol_komek": {
+        "contact": "8 (771) 337 44 00, 8 (702) 380 71 80, 8 (707) 443 94 44, 8 (700) 465 00 12",
+        "location": "Shymkent, Temirlanovskoe highway 40‑37",
+        "name": "LLP \"Zhol komek\"",
+        "schedule": "Mon–Sat 09:00–19:00"
+      }
+    },
+    "table": {
+      "address": "City/Address",
+      "contacts": "Contacts",
+      "name": "Name",
+      "schedule": "Working hours"
+    },
+    "title": "List of certified installation centers"
+  },
+  "chat": {
+    "header": {
+      "status_online": "online",
+      "status_typing": "prints...",
+      "title": "EVAC support"
+    },
+    "hints": {
+      "cost": "How much does the service cost?",
+      "installation": "How to install U(S)VEOS?",
+      "nearest_center": "Where is the nearest center?"
+    },
+    "placeholders": {
+      "input": "Enter your message..."
+    },
+    "responses": {
+      "cost": "Registration of a U(S)VEOS with an installed identification card belonging to the national Operator of the emergency call system EVAC amounts to 5,864.42 tenge excluding VAT (6,568.15 tenge including VAT). \nThe registration period is up to 3 working days.",
+      "fallback": "Please wait. \nI am switching your dialogue to the EVAC technical support operator for detailed consultation.",
+      "installation": "If the vehicle is not equipped with U(S)VEOS, installation and configuration of the equipment must be carried out at certified installation centers. \nAfter installation, the device must be registered in the GAIS EVAC database. \nVehicle VIN and device ICCID are required for registration.",
+      "nearest_center": "Lists of certified installation centers that have official access to the system and equipment installation are posted in the relevant sections of our website (“Installation Centers” / “Car Importers”). \nYou can select the nearest center in your region.",
+      "welcome": "Hello! \nI am a virtual assistant for EVAK. \nAsk a question or choose a prompt below."
+    },
+    "trigger": {
+      "close": "✕",
+      "open": "💬"
+    }
+  },
+  "check": {
+    "button": "CHECK",
+    "description": "Enter the VIN code - we will show the status of the U(S)VEOS device in the system.",
+    "label": "CAR CHECK",
+    "placeholder": "Enter VIN code",
+    "stats_after": "cars",
+    "stats_label": "Total registered",
+    "title": "Is your car registered in SAIS EVAC?"
+  },
+  "faq": {
+    "sections": {
+      "eraGlonass": {
+        "items[0]": {
+          "answer": "For subscribers of the ERA-GLONASS emergency call system, there are 3 categories of vehicles with an installed identification card:\n\n1) Vehicles registered in the Russian Federation and temporarily located on the territory of the Republic of Kazakhstan;\n\n2) Vehicles produced before January 1, 2019;\n\n3) Vehicles manufactured after January 1, 2019.\n\nFor the first category of cars, the connection occurs automatically. \nNo additional data required. \nWe will automatically request everything you need from the ERA-GLONASS operator.\n\nFor the second category of cars, the connection also occurs automatically. \nTo work, we need to obtain the VIN code and ICCID, make, model, color and year of manufacture of U(S)VEOS for each car sold. \nFor the third category of cars, connection is carried out only after paying a one-time payment (25,840 tenge, including 12% VAT).\n\nIf the VIN code and ICCID, make, model, color and year of manufacture of the U(S)VEOS are not specified for the second and third categories of vehicles, the operation of the U(S)VEOS will not be possible.",
+          "question": "How do ERA-GLONASS emergency call systems work on cars in Kazakhstan after the EVAC system has been put into commercial operation since 01/01/2019?"
+        },
+        "items[1]": {
+          "answer": "Registration of cars with an installed ERA-GLONASS identification card, issued before January 1, 2019, in the EVAC system database is free of charge. \nThis means that all cars manufactured before 01/01/2019 will be registered in the EVAC system database free of charge, regardless of when they were sold. \nAll cars manufactured after January 1, 2019 are registered at the approved tariffs of the EVAC system operator.",
+          "question": "Is the EVAC SIM profile different from the Russian ERA-GLONASS profile?"
+        },
+        "items[2]": {
+          "answer": "To purchase SIM profiles, it is necessary to conclude a tripartite agreement between the EVAC system operator, the SIM card manufacturer and the device manufacturer.",
+          "question": "What happens to vehicles equipped with a previously released emergency call device/system?"
+        },
+        "items[3]": {
+          "answer": "All vehicles equipped with a module with an ERA-GLONASS SIM card and registered in the EVAC system will operate in Kazakhstan, and the EVAC system will function on these vehicles. \nTo connect vehicles to the EVAC system, automakers or official dealers provide the EVAC operator with information in the form of an Excel file indicating the vehicle VIN code and the ICCID code U(C)VEOS installed on the vehicle, as well as the make, model, color and year of manufacture of the vehicle.",
+          "question": "What mechanism is provided for a painless transition from ERA-GLONASS conditions to the EVAC system for vehicles equipped with U(S)VEOS and passed confirmation of compliance?"
+        },
+        "items[4]": {
+          "answer": "Ensuring compliance with the requirements of paragraph 6 of Article 33 of the Law of the Republic of Kazakhstan “On Road Traffic”. \nU(C)VEOS installed on vehicles must have a certificate of compliance with TR CU 018 “On the safety of wheeled vehicles” according to the scheme “Registration and accounting of in-vehicle emergency call devices in a vehicle.”\n\nTo connect vehicles to the EVAC system, automakers or official dealers provide the EVAC operator with information in the form of an Excel file indicating the vehicle VIN code and the ICCID code U(C)VEOS installed on the vehicle, as well as the make, model, color and year of manufacture of the vehicle.\n\nSubmit your registration details via the EVAC operator website.\n\nAfter receiving the data, the EVAC Operator registers the vehicle and the device or emergency call system installed on it in the emergency call system database in accordance with the Registration Rules of the U(S)VEOS.",
+          "question": "The IKTT Order does not describe in detail the process of connecting/activating the SIM profile of JSC Glonass to the EVAC system. \nA complete specification of the SIM profile connection/activation process is required"
+        },
+        "title": "Operation of the system with ERA-GLONASS SIM cards"
+      },
+      "labs": {
+        "items[0]": {
+          "answer": "Currently, we do not have information about the presence in the Republic of Kazakhstan of laboratories and certified bodies that test UVEOS/SVEOS and confirm compliance with the standards you specified. \nOn this issue, we sent a request to the Committee for Technical Regulation and Metrology of the Ministry of Trade and Integration of the Republic of Kazakhstan (CTRM).",
+          "question": "Are there accredited laboratories and certification bodies in Kazakhstan that are accredited and included in the register of the Customs Union that test and confirm the compliance of EVAC systems/devices with interstate standards?"
+        },
+        "items[1]": {
+          "answer": "Currently, we do not have information about the presence in the Republic of Kazakhstan of laboratories and certified bodies that conduct tests and issue OTTS. \nSuch laboratories exist in Russia, one of them is the Federal State Unitary Enterprise “NAMI” State Scientific Center of the Russian Federation.",
+          "question": "Are there laboratories and certification bodies that carry out testing (particular attention to paragraph 16 of Appendix No. 3 and paragraph 17 of TR CU 018/2011) and confirmation of compliance with the technical regulations of the Customs Union “On the safety of wheeled vehicles” TR CU 018/2011 for approval of vehicle types of the Customs Union?"
+        },
+        "items[2]": {
+          "answer": "When testing by laboratories and confirming the compliance of certification bodies operating on the territory of the Russian Federation, but not accredited on the territory of Kazakhstan, the results will be recognized only if our specialists were involved, at least, as observers.",
+          "question": "If there are no relevant organizations that satisfy paragraphs 1 and 2, will the results of tests conducted by laboratories and confirmation of the conformity of certification bodies operating on the territory of the Russian Federation, but not accredited on the territory of Kazakhstan, be recognized as meeting the requirements of interstate standards and TR CU?"
+        },
+        "title": "Laboratories and certification bodies"
+      },
+      "other": {
+        "items[0]": {
+          "answer": "Regarding the conclusion of an agreement for registration of U(S)VEOS in the EVAC system, you need to contact Marina Alkhazurova by phone: 8(727)221-77-95 ext. \n705 or e-mail: info@evak.online.",
+          "question": "Is it necessary to enter into a legal agreement with which authorized organization to register emergency call devices/systems in a vehicle?"
+        },
+        "items[1]": {
+          "answer": "In 2018, the EVAC system is operating in test mode, so there may be interruptions in receiving calls with the eCall flag. \nFrom January 1, 2019, EVAC will be put into commercial operation, and all calls with the eCall flag will be accepted from all regions of Kazakhstan.",
+          "question": "Does the National Operator accept calls with the eCall flag from August 1 throughout Kazakhstan or only in some cities?"
+        },
+        "items[2]": {
+          "answer": "From January 1, 2019, in accordance with the approved calendar plan, the emergency call system in case of accidents and disasters is put into commercial operation.",
+          "question": "When will the EVAK system be launched, what is the date?"
+        },
+        "title": "Other questions"
+      },
+      "owners": {
+        "items[0]": {
+          "answer": "Technical Regulations of the Customs Union “On the Safety of Wheeled Vehicles” TR CU 018/2011, which came into force in the EAEU countries on January 1, 2017, obliges automakers to equip vehicles of categories M (used for transporting passengers) and N (used for transporting goods) with emergency terminals in case of emergency situations. \nVehicles undergoing initial registration in the Republic of Kazakhstan, as well as vehicles transporting passengers, dangerous and large cargo, must be equipped with emergency call devices. \nVehicles in operation in Kazakhstan may be equipped with emergency call devices on a voluntary basis.",
+          "question": "Is equipping cars with emergency call devices mandatory for all car owners or only for cars sold in car dealerships?"
+        },
+        "items[1]": {
+          "answer": "All information about the emergency call system in case of accidents and disasters is posted on the website of the national operator http://evak.online. \nCar owners can ask their questions regarding the operation of the EVAK system by writing to info@evak.online.",
+          "question": "What kind of support does the system developer provide?"
+        },
+        "items[2]": {
+          "answer": "There is no need to re-equip vehicles with SIM cards belonging to other operators of emergency call systems of the Customs Union. \nTo connect to the EVAC system and send calls for help in emergency situations, you must register the vehicle in the EVAC system database. \nVehicle data for registration in the EVAC system is transmitted to the operator through auto manufacturers, vehicle importers or certified installation centers. \nThe owner of the vehicle must request registration in the EVAC system from the organization from which the vehicle was purchased or in which the emergency call device was installed.",
+          "question": "Is it necessary to re-equip a car equipped with an emergency call system with an ERA-GLONASS SIM card?"
+        },
+        "items[3]": {
+          "answer": "There is no subscription fee to use the main function of the EVAC system.",
+          "question": "What is the subscription fee for using the system?"
+        },
+        "items[4]": {
+          "answer": "System parameters must be checked once a year. \nYou can check the parameters at certified installation centers. \nIf additional functions are introduced and the car owner wants to connect to them, it is necessary to update the device software and enter into an agreement for the use of additional functions.",
+          "question": "How often does the device require maintenance and software updates?"
+        },
+        "items[5]": {
+          "answer": "The device for calling emergency services does not require additional settings if the car is used in another city in Kazakhstan.",
+          "question": "Is installation of additional equipment required if the car is moved to another city in Kazakhstan?"
+        },
+        "title": "Answers to questions from car owners"
+      },
+      "sim": {
+        "items[0]": {
+          "answer": "The EVAC system SIM profile can be purchased from the GAIS EVAC operator from August 1, 2018. \nThis SIM profile is designed in full compliance with ISO 7816 / ETSI TS 102.221 standards. \nTo purchase a SIM profile, you must enter into a tripartite agreement.",
+          "question": "Is there any official information that the EVAC SIM profile should be available from January 2019?"
+        },
+        "items[1]": {
+          "answer": "When going through the confirmation procedure, there is no link to the SIM profile of a specific national operator. \nOnly the performance of the U(S)VEOS is assessed. \nAccording to GOST 34464-2015, the initial profile of the emergency call system operator is established in U(S)VEOS. \nThe requirement for mandatory connection of vehicles to the EVAC system will apply to vehicles undergoing the initial registration procedure after January 1, 2019.",
+          "question": "If so, does this only apply to vehicle types that have not previously undergone conformity assessment, or to all vehicles?"
+        },
+        "items[2]": {
+          "answer": "To purchase SIM profiles, it is necessary to conclude a tripartite agreement between the operator of the EVAC system, the manufacturer of SIM chips and the Manufacturer, which agrees on the terms of payment and the terms of transfer of SIM profiles.",
+          "question": "How are profiles transferred to the manufacturer?"
+        },
+        "items[3]": {
+          "answer": "To resolve issues of purchasing SIM profiles, as well as connecting U(S)VEOS to the EVAC system, a contact person has been identified: Marina Alkhazurova, tel. \n8(727) 221-77-95 ext. \n705.",
+          "question": "Who will be the contact person when concluding direct contracts with manufacturers for the purchase of profiles?"
+        },
+        "items[4]": {
+          "answer": "To purchase a SIM profile, it is necessary to sign a tripartite agreement between the EVAC System Operator, the SIM card manufacturer and the car manufacturer (if it develops the U(S)VEOS itself, or directly with the U(S)VEOS manufacturer), which agrees on the terms of payment and delivery of SIM profiles. \nThe EVAC system SIM profile can be purchased from the GAIS EVAC operator from August 1, 2018. \nThis SIM profile is designed in full compliance with ISO 7816 / ETSI TS 102.221 standards. \nThe use of OTA for distributing SIM profiles of the EVAC system will depend solely on the capabilities of the cellular equipment of national mobile operators of the Republic of Kazakhstan, as well as on the availability of all necessary agreements between the owner of the OTA platform and national mobile operators of the Republic of Kazakhstan.",
+          "question": "How does IKTT plan to transfer the SIM profile to EVAC (will the scheme be similar to the scheme of JSC GLONASS)? \nOr should the EVAC SIM profile be handled via OTA?"
+        },
+        "title": "SIM cards"
+      },
+      "tech": {
+        "items[0]": {
+          "answer": "In Kazakhstan there are no special technical requirements for U(S)VEOS. \nTechnical requirements for U(S)VEOS are uniform throughout the entire territory of the Customs Union. \nThe main standard for U(C)VEOS is GOST 33464-2015 “Device/system for calling emergency operational services. \nGeneral technical requirements\".",
+          "question": "Have technical requirements (methodological recommendations) been developed for devices/systems for calling emergency operational services that meet the requirements of the CU TR and Interstate Standards regarding the implementation of emergency calls on the territory of Kazakhstan using EVAC?"
+        },
+        "items[1]": {
+          "answer": "If U(S)VEOS fully complies with the requirements of TR CU 018/2011, no changes are required to use the EVAC SIM profile. \nThe SIM chip on which the EVAC SIM profile is written must comply with the ETSI TS 102.671 standard.",
+          "question": "Is the necessary information (technical specification/specification) available to begin the development and modification of the trailer hitch in relation to the EVAC profile?"
+        },
+        "items[2]": {
+          "answer": "S(V)EOS/U(V)EOS must comply with the standards GOST 33464-2015, GOST 33465-2015, GOST 33466-2015, GOST 33467-2015, GOST 33468-2015, GOST 33469-2015, GOST 33470-2015, GOST \n33471-2015, which define mandatory support for the GSM 900/1800 and UMTS 900/2000 standards.",
+          "question": "Is it necessary to strictly comply with the radiotelephone requirements of the GSM 900 and GSM 1800, as well as UMTS 900 and UMTS 2000 standards?"
+        },
+        "items[3]": {
+          "answer": "Currently, the EVAC operator has tested SIM cards from two manufacturers: Gemalto and Oberthur.",
+          "question": "Which organization will be accredited to issue SIM chips and under what agreement?"
+        },
+        "items[4]": {
+          "answer": "Using this number for the Test Service 79418100025 in Kazakhstan is impossible, since the ERA-GLONASS DEF code is 940, and in Kazakhstan the DEF code is 740.",
+          "question": "In Russia, the number used for the Test Service is 79418100025. Can this number be used for cars in Kazakhstan? \nWill this be a problem for ICTT?"
+        },
+        "items[5]": {
+          "answer": "MCC-401\n\nMNC – 09\n\nMSIN – 740\n\nThe remaining 7 digits are the individual card number.",
+          "question": "Is it possible to obtain complete technical data for the EVAC SIM profile?"
+        },
+        "items[6]": {
+          "answer": "As a development of the system after 2019, this equipment and service can be connected.",
+          "question": "According to the latest data, HKTT reported that there are no plans to create a test service at the expense of the budget, and there are no plans to purchase equipment for sending SMS messages at the expense of the budget. \nNegotiations are currently underway with mobile operators about sending SMS through them. \nWhen is it planned to create a test service, as well as purchase equipment for sending SMS, which were not planned in the budget?"
+        },
+        "items[7]": {
+          "answer": "IKTT response: Using this number for the Test Service 79418100025 in Kazakhstan is impossible, since the ERA-GLONASS DEF code is 940, and in Kazakhstan the DEF code is 740. In this case, according to the manufacturers of terminals and SIM profiles, changes will be required to the terminal and SIM profile of the emergency call system. \nThis will require additional testing.",
+          "question": "Changing the telephone number of the Test Service or SMS message delivery center should not lead to additional testing of the U(S)VEOS in case of compliance with the requirements of TR CU 018/2011. \nSince these numbers are included in the changeable parameters of U(S)VEOS in accordance with the interstate standard GOST 33464-2015 “Global navigation satellite system. \nEMERGENCY RESPONSE SYSTEM IN CASE OF ACCIDENTS. \nDevice/system for calling emergency services in a car. \nGeneral technical requirements\". \nChanging these parameters should be possible remotely via SMS or by connecting a cable. \nIn this regard, we ask you to allow for a transition period for EVAC SIM profiles."
+        },
+        "items[8]": {
+          "answer": "Technical data is public information. \nAccording to the interstate standard GOST 33464-2015, the built-in SIM card must be made in the MFF2 form factor with support for GSM 900/GSM 1800/UMTS radiotelephone communications. \nThe card must remain operational in an ambient temperature range from minus 40°C to plus 105°C. \nThe total memory capacity on the SIM/eUICC card must be at least 64 KB. \nThe card must be rated for DC voltage between 1.62 and 3.3 V. The system operator profile must be enabled on the SIM/eUICC. \nThe card supports authentication algorithms (GSM-Milenage, Milenage, XOR, AES) and cryptography (CRC-32, DES, 3DES, MD5, SHA-1).\n\nTechnical data of the SIM profile of the EVAC system: MCC – 401; \nMNC – 09; \nMSIN – 740.",
+          "question": "What are the technical data of EVAC SIM chip?"
+        },
+        "title": "Technical issues"
+      }
+    },
+    "title": "Frequently Asked Questions"
+  },
+  "footer": {
+    "bottom": {
+      "allRightsReserved": "All rights reserved",
+      "copyright": "© 2026 IKTT LLP · GAIS EVAC operator"
+    },
+    "contacts": {
+      "address": "st. \nKislovodskaya 34, Almaty",
+      "title": "CONTACTS"
+    },
+    "description": "Operator of the state automated information system for emergency calls in case of accidents and disasters.",
+    "information": {
+      "about": "About the system",
+      "contacts": "Contacts",
+      "news": "News",
+      "title": "INFORMATION"
+    },
+    "services": {
+      "importers": "For importers",
+      "installationCenters": "Installation centers",
+      "manufacturers": "For manufacturers",
+      "owners": "Car owners",
+      "title": "SERVICES"
+    }
+  },
+  "header": {
+    "aerospace": "Aerospace Committee",
+    "gais": "GAIS · KAZAKHSTAN",
+    "iktt": "ICTT",
+    "menu": {
+      "auto_manufacturers": "Automakers",
+      "contacts": "Contacts",
+      "importers": "For car importers",
+      "installers": "Installation centers",
+      "manufacturers": "For manufacturers of U(S)VEOS",
+      "news": "News",
+      "owners": "Car owners"
+    },
+    "miicr": "MIIC RK"
+  },
+  "header2": {
+    "menu": {
+      "cabinet": "Cabinet"
+    }
+  },
+  "hero": {
+    "badge": "State automated system",
+    "btn_about": "How does this work",
+    "btn_check": "Check car",
+    "description": "Emergency call system operator in case of accidents and disasters. \nOne signal - rescuers are on their way.",
+    "stats": {
+      "calls": "Calls processed",
+      "cars": "Auto in the system",
+      "regions": "Regions covered",
+      "sent_112": "Sent to 112"
+    },
+    "title_accent1": "on",
+    "title_accent2": "roads",
+    "title_part1": "Saving lives",
+    "title_part2": "Kazakhstan"
+  },
+  "importer": {
+    "hero": {
+      "description": "Design safety certificate, installation of U(S)VEOS and registration in GAIS EVAC - in one window.",
+      "subtitle": "FOR CAR IMPORTERS",
+      "title_highlight1": "registration",
+      "title_highlight2": "SBCTS",
+      "title_part1": "Import of cars and"
+    },
+    "registration": {
+      "label": "PRIMARY VEHICLE REGISTRATION",
+      "list_item1": "Vehicle registration certificate;",
+      "list_item2": "Identity document;",
+      "list_item3": "Documents confirming payment of duties and fees;",
+      "list_item4": "Technical document;",
+      "list_item5": "Vehicle;",
+      "list_item6": "A document confirming ownership of the vehicle and license plate, including:",
+      "sub_item1": "Documents confirming customs clearance;",
+      "sub_item2": "Certificate of safety of the vehicle design or vehicle type approval to the Technical Regulations of the Customs Union.",
+      "text1": "During the initial state registration of a vehicle in the Republic of Kazakhstan (with the exception of vehicles purchased from an official dealer), the owners provide the vehicle to the REP for verification of compliance with license plate units.",
+      "text2": "To perform registration actions, vehicle owners are provided with:",
+      "title": "Procedure for registering a vehicle with the police"
+    },
+    "stats": {
+      "conditions_text": "Registration of U(C)VEOS for vehicles manufactured after 01/01/2019 with cards of other operators of the Customs Union - 5,864.42 (excluding VAT) / 6,568.15 (incl. VAT) tenge.",
+      "conditions_title": "Registration conditions",
+      "cost_text": "Registration of U(S)VEOS with an installed identification card belonging to the national Operator of the emergency call system EVAC - 5,864.42 tenge excluding VAT or 6,568.15 tenge including VAT.",
+      "cost_title": "Cost of registration in the EVAC system",
+      "terms_text": "To register, you need the VIN code and ICCID of the device. \nRegistration period is up to 3 working days. \nConnection of a vehicle from the Russian Federation occurs automatically via ERA-GLONASS.",
+      "terms_title": "Deadlines and requirements"
+    },
+    "steps_equipped": {
+      "heading": "Algorithm for the initial registration of vehicles equipped with U(S)VEOS",
+      "step1": "When importing a vehicle into the territory of the Republic of Kazakhstan, go through the customs clearance procedure for the vehicle.",
+      "step2": "If a device for calling emergency services is installed in the vehicle, you must check its registration in the EVAC system.",
+      "step3": "When registering in the EVAC database, the organization carrying out the registration must check the correct installation and configuration of the U(S)VEOS.",
+      "step4": "If there is no registration in the EVAC system, it is necessary to register U(S)VEOS. \nRegistration is carried out by importers or certified installation centers that have access to registration.",
+      "step5": "Obtain a Vehicle Design Safety Certificate (VSSC) or a Vehicle Type Approval (VTA). \nUpon receipt of the SBKTS, laboratories check the presence and operability of the in-vehicle emergency call system in the vehicle.",
+      "step6": "A vehicle with an installed terminal and a set of necessary documents is submitted to the police for state registration.",
+      "title": "REGISTRATION PROCEDURE"
+    },
+    "steps_not_equipped": {
+      "heading": "Algorithm for the initial registration of vehicles not equipped with U(S)VEOS",
+      "step1": "When importing a vehicle into the territory of the Republic of Kazakhstan, go through the customs clearance procedure for the vehicle.",
+      "step2": "If the vehicle is not equipped with a device for calling emergency services, it is necessary to install and configure the equipment at certified installation centers.",
+      "step3": "Register U(S)VEOS in the EVAC system database. \nRegistration of U(C)VEOS is carried out by importers or certified installation centers that have access to registration.",
+      "step4": "Obtain a Vehicle Design Safety Certificate (VSSC) or a Vehicle Type Approval (VTA). \nUpon receipt of the SBKTS, laboratories check the presence and operability of the in-vehicle emergency call system in the vehicle.",
+      "step5": "A vehicle with an installed terminal and a set of necessary documents is submitted to the police for state registration.",
+      "title": "REGISTRATION PROCEDURE"
+    }
+  },
+  "manufacturers": {
+    "cta": {
+      "button": "Registration",
+      "title": "Register in the system!"
+    },
+    "hero": {
+      "subtitle": "FOR CAR MANUFACTURERS",
+      "text": "Full certification cycle, support for engineering teams and access to test reports.",
+      "title_accent": "U(S)VEOS",
+      "title_part1": "Integration",
+      "title_part2": "on the conveyor"
+    }
+  },
+  "manufacturers2": {
+    "cards": {
+      "btn1": "Open requirements PDF",
+      "email_label": "e-mail:",
+      "phone_label": "tel.:",
+      "text1": "Technical and functional requirements for the device (system) for calling emergency services in accordance with TR CU 018/2011 and ST RK ISO 17575. Support for MSD, GSM/UMTS, GLONASS/GPS protocols, secure connection with the GAIS EVAC infrastructure.",
+      "text2_1": "To purchase identification cards, it is necessary to sign a tripartite Agreement between the Operator of the EVAC system (Institute of Space Technology and Technology), the Manufacturer of SIM cards and the Applicant, where the terms of payment and transfer are discussed.",
+      "text2_2": "After concluding the Agreement, the Applicant sends the Operator a request for the required number of cards and makes payment at the rates approved by the Director of the Institute of Space Technology and Technology. \nThe cost of the GAIS EVAC profile is 2 MCI 12% VAT.",
+      "text2_3": "After payment, the Manufacturer produces and transfers to the Applicant the paid SIM cards, taking into account the ICCID ranges from the Operator. \nProduction time is 1 month.",
+      "text2_4": "The applicant installs the received card into the device (system) for calling in-vehicle emergency services and transfers the device to the vehicle manufacturer or installation centers. \nThe operator registers cards in the emergency call system.",
+      "text3": "The cost of the GAIS EVAC profile for the production of SIM cards is 5,864.42 tenge excluding VAT or 6,568.15 tenge including VAT. \nThis tariff is valid throughout the Republic of Kazakhstan. \nTo provide a profile, it is necessary to conclude an Agreement between the GAIS EVAC Operator, the SIM card manufacturer and the UVEOS manufacturer.",
+      "text4": "To conclude an agreement, please contact the EVAC operator:",
+      "title1": "Requirements for U(S)VEOS",
+      "title2": "Procedure for purchasing SIM cards",
+      "title3": "Tariffs for purchasing SIM cards",
+      "title4": "Tripartite agreement for SIM cards"
+    },
+    "form": {
+      "badge": "SERVICES",
+      "btn": "SUBMIT YOUR APPLICATION",
+      "description": "Submit an application - the manager of the Operator GAIS EVAC will contact you within 1 business day, agree on the volume of the batch and send a draft tripartite agreement.",
+      "feat1": "Batch size from 100 units",
+      "feat2": "Delivery time - from 14 working days",
+      "feat3": "Technical integration support 24/7",
+      "title": "Application for the purchase of SIM cards"
+    },
+    "hero": {
+      "badge": "FOR MANUFACTURERS OF U(S)VEOS",
+      "description": "Technical requirements, GAIS EVAC identification SIM cards and application submission service for U(S)VEOS manufacturers.",
+      "title": "Production of emergency call devices"
+    },
+    "modal": {
+      "address": "Address *",
+      "bank": "Bank *",
+      "bank_details": "Applicant's bank details:",
+      "bik": "BIC bank",
+      "bin": "Company BIN *",
+      "contact_details": "Contact details of the person who submitted the Application:",
+      "count": "Number of subscriber identification cards *",
+      "email": "Email *",
+      "iik": "IIK *",
+      "name": "Last name First name *",
+      "org": "Name of organization *",
+      "phone": "Phone number *",
+      "submit": "SEND YOUR APPLICATION",
+      "title": "Application for the purchase of SIM cards"
+    }
+  },
+  "news": {
+    "all": "All news →",
+    "item1": {
+      "date": "10/30/2025",
+      "excerpt": "In the Talgar district of the Almaty region, remote control 112 received a message from the car emergency SOS button...",
+      "title": "Rescuers of the Republic of Kazakhstan managed to find a married couple thanks to the SOS button"
+    },
+    "item2": {
+      "date": "02/05/2025",
+      "excerpt": "The Aerospace Committee signed Order No. 49/NK on approval of the price for the service for providing a profile...",
+      "title": "New tariffs for GAIS EVAC Operator"
+    },
+    "item3": {
+      "date": "12/12/2024",
+      "excerpt": "Severe weather conditions on intercity routes once again confirm the importance of operational communications...",
+      "title": "SOS button that can save lives"
+    },
+    "label": "NEWS",
+    "read": "Read →",
+    "title_part1": "Rescue stories",
+    "title_part2": "and system updates"
+  },
+  "newsMain": {
+    "empty": "There are no news for the selected category.",
+    "hero": {
+      "description": "Follow the work of the GAIS EVAK operator, technological updates and real cases.",
+      "label": "NEWS",
+      "title": "Stories of rescues and<br />system upgrades"
+    },
+    "items": {
+      "1": {
+        "excerpt": "In the Talgar district of the Almaty region, remote control 112 received a message from a car emergency SOS button. \nThe brigade arrived within 20 minutes.",
+        "title": "Rescuers of the Republic of Kazakhstan managed to find a married couple thanks to the SOS button"
+      },
+      "2": {
+        "excerpt": "The Aerospace Committee signed Order No. 49/NK on approval of the price for the service of providing a U(S)VEOS device profile.",
+        "title": "New tariffs for GAIS EVAC Operator"
+      },
+      "3": {
+        "excerpt": "Severe weather conditions on intercity routes once again confirm the importance of prompt communication through GAIS EVAK.",
+        "title": "SOS button that can save lives"
+      },
+      "4": {
+        "excerpt": "Thanks to the automatic activation of shock sensors, emergency services arrived at the scene of the accident without delay.",
+        "title": "Road accident on the Almaty-Kapshagai highway: help arrived in 12 minutes"
+      },
+      "5": {
+        "excerpt": "The network of authorized partners of GAIS EVAC continues to grow - the opening of a new center in Shymkent.",
+        "title": "The 50th certified installation center was opened"
+      },
+      "6": {
+        "excerpt": "Additional communication channels will ensure a stable response even in the absence of a GSM network.",
+        "title": "Expansion of satellite coverage in the northern regions"
+      }
+    },
+    "read_more": "Read",
+    "tabs": {
+      "all": "All",
+      "partners": "Partners",
+      "regulation": "Regulation",
+      "rescue": "Salvation",
+      "technology": "Technologies"
+    }
+  },
+  "partners": {
+    "cta": {
+      "button": "BECOME A PARTNER",
+      "text": "Fill out the partner's questionnaire - the manager will contact you to clarify the details and coordinate the auditor's visit.",
+      "title": "Ready to join the network?"
+    },
+    "hero": {
+      "subtitle": "INSTALLATION CENTERS",
+      "text": "Certification of the center, training of specialists and access to the corporate device registration account.",
+      "title_highlight": "partner",
+      "title_part1": "Become",
+      "title_part2": "GAIS EVAC networks"
+    },
+    "modal": {
+      "address": "Legal address *",
+      "bin": "BIN *",
+      "center_address": "Address of installation center *",
+      "company": "Company name *",
+      "contacts": "Employee contact details:",
+      "email": "Email *",
+      "files": "Appendix to the application:",
+      "fio": "Full name *",
+      "phone": "Telephone *",
+      "service_cert": "Certificate of conformity for car service services",
+      "submit": "Send a request",
+      "title": "Application for certification",
+      "training_cert": "Certificate or certificate of completion of training *"
+    },
+    "requirements": {
+      "items": {
+        "req1": "Submit an application for certification of an installation center that installs emergency call devices",
+        "req2": "Attach a certificate of conformity for car service services issued by a certification center with registration in the state register",
+        "req3": "Attach a certificate or certificate of completion of training issued by the manufacturers of U(S)VEOS, confirming the right to install and configure equipment",
+        "req4": "Expect a decision on certification of the installation center within 5 working days",
+        "req5": "Receive an information letter with the commission's decision",
+        "req6": "After the decision is made, information about the certified center is posted on the website of the EVAC System Operator within 3 business days",
+        "req7": "The validity period of certification ends upon expiration of one of the provided documents"
+      },
+      "subtitle": "REQUIREMENTS FOR THE CENTER",
+      "title": "What is needed for certification"
+    },
+    "tariffs": {
+      "desc1_1": "The cost of the GAIS EVAC profile for the production of SIM cards is",
+      "desc1_2": "excluding VAT or",
+      "desc1_3": "including VAT.",
+      "desc1_4": "This tariff is valid throughout the Republic of Kazakhstan.",
+      "desc1_5": "To provide a profile, it is necessary to conclude an Agreement between the GAIS EVAC Operator, the SIM card manufacturer and the UVEOS manufacturer.",
+      "price1": "5,864.42 tenge",
+      "price2": "6,568.15 tenge",
+      "timeline": {
+        "step1": "Tripartite Agreement (EVAC/ICT Operator, SIM Manufacturer, Applicant) with terms of payment and transfer",
+        "step2": "The Applicant sends a request to the Operator for the number of cards and makes payment according to the current tariff",
+        "step3": "The manufacturer produces SIM cards according to the Operator’s ICCID ranges (up to 1 month)",
+        "step4": "The manufacturer transfers the SIM cards to the Applicant",
+        "step5": "The applicant installs the SIM in the emergency call device and transfers it to the installation center / car manufacturer",
+        "step6": "The operator registers SIM cards in the EVAC system. \nCost: 2 MCI 12% VAT"
+      },
+      "title1": "Tariffs for purchasing SIM cards",
+      "title2": "Procedure for purchasing subscriber identification cards"
+    }
+  },
+  "procurement": {
+    "steps": {
+      "step01": "Tripartite Agreement (EVAC/ICT Operator, SIM Manufacturer, Applicant) with terms of payment and transfer",
+      "step02": "The Applicant sends a request to the Operator for the number of cards and makes payment according to the current tariff",
+      "step03": "The manufacturer produces SIM cards according to the Operator’s ICCID ranges (up to 1 month)",
+      "step04": "The manufacturer transfers the SIM cards to the Applicant",
+      "step05": "The applicant installs the SIM in the emergency call device and transfers it to the installation center / car manufacturer",
+      "step06": "The operator registers SIM cards in the EVAC system. \nCost: 2 MCI 12% VAT"
+    },
+    "title": "Procedure for purchasing subscriber identification cards"
+  },
+  "profile": {
+    "content": {
+      "edit_btn": "EDIT",
+      "fields": {
+        "birthday": "Date of birth",
+        "city": "City",
+        "email": "Email",
+        "iin": "IIN",
+        "name": "Full name",
+        "phone": "Telephone"
+      },
+      "title": "Personal information"
+    },
+    "menu": {
+      "history": "Story",
+      "logout": "Log out",
+      "my_cars": "My cars",
+      "personal_data": "Personal information",
+      "settings": "Settings"
+    },
+    "sidebar": {
+      "id": "ID {id}"
+    }
+  },
+  "roles": {
+    "heading": "Services for every role",
+    "item1": {
+      "desc": "Checking vehicle registration in the system, a list of certified installation centers, vehicles subject to mandatory equipment with U(S)VEOS.",
+      "link": "Check registration",
+      "title": "Car owners"
+    },
+    "item2": {
+      "desc": "Tariffs for registration in the EVAC system and for the purchase of SIM cards, the procedure for purchasing SIM cards, registration of U(S)VEOS in the EVAC system.",
+      "link": "Documents and API",
+      "title": "Automakers"
+    },
+    "item3": {
+      "desc": "Certification of centers, registration of U(S)VEOS in the EVAC system, list of certified installation centers.",
+      "link": "Become a partner",
+      "title": "Installation centers"
+    },
+    "item4": {
+      "desc": "Algorithm for the initial registration of a vehicle, an application for checking the performance of the installed U(S)VEOS.",
+      "link": "Registration procedure",
+      "title": "For car importers"
+    },
+    "item5": {
+      "desc": "Requirements for U(C)VEOS, tripartite agreement and application for the purchase of SIM cards, procedure and tariffs for the purchase of SIM cards.",
+      "link": "Find out the conditions",
+      "title": "For manufacturers of U(S)VEOS"
+    },
+    "label": "WHO NEEDS THIS?",
+    "subheading": "Five areas of work for a GAIS EVAC operator - choose yours."
+  },
+  "tariffs": {
+    "registration": {
+      "automaticRegistration": "For vehicles registered in the Russian Federation and temporarily located in Kazakhstan, connection to the EVAC system will take place automatically.",
+      "dataRequirement": "To register in the emergency call system for operational services of vehicles, it is necessary to provide the Operator of the EVAC system with the VIN code of the vehicle and ICCID U(C)VEOS.",
+      "item1": "Registration of U(S)VEOS with an installed identification card belonging to the national Operator of the emergency call system EVAC - <strong>5,864.42 tenge</strong>excluding VAT or<strong>6,568.15 tenge</strong>inclusive of VAT.",
+      "item2": "Registration of U(C)VEOS for vehicles manufactured after January 1, 2019, with an installed identification card belonging to Operators of other emergency call systems of the Customs Union - <strong>5,864.42 tenge</strong>excluding VAT or<strong>6,568.15 tenge</strong>including VAT.",
+      "timing": "After providing the data to the Operator of the EVAC system, registration of vehicles is carried out within 3 working days.",
+      "title": "Cost of registration in the EVAC system",
+      "warning": "If the vehicle is not registered in the EVAC system, it is impossible to make an emergency call from the U(S)VEOS."
+    },
+    "sim": {
+      "coverage": "This tariff is valid throughout the Republic of Kazakhstan.",
+      "description": "The cost of the GAIS EVAC profile for the production of SIM cards is <strong>5,864.42 tenge</strong>excluding VAT or <strong>6,568.15 tenge</strong>including VAT.",
+      "requirement": "To provide a profile, it is necessary to conclude an Agreement between the GAIS EVAC Operator, the SIM card manufacturer and the UVEOS manufacturer.",
+      "title": "Tariffs for purchasing SIM cards"
+    }
+  }
+}
